@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Recipie.Model.Entity;
 
-namespace RecipeApp.Data;
+namespace Recipie.Data;
 
 public class Repository<T> where T : class, IIdEntity
 {
