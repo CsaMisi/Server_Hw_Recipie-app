@@ -1,3 +1,6 @@
 <Solution>
+  <Project Path="Recipie.BizLogic/Recipie.BizLogic.csproj" />
+  <Project Path="Recipie.Data/Recipie.Data.csproj" />
+  <Project Path="Recipie.Model/Recipie.Model.csproj" />
   <Project Path="Server_Hw_Recipie-app.API/Server_Hw_Recipie-app.API.csproj" />
 </Solution>
