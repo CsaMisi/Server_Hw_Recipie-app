@@ -1,8 +1,8 @@
 using Microsoft.AspNetCore.Mvc;
-using RecipeApp.Entities.Dto.Ingredient;
-using RecipeApp.Logic;
+using Recipie.Model.Dto.Ingredient;
+using Recipie.BizLogic;
 
-namespace RecipeApp.Endpoint.Controllers;
+namespace Recipie.API.Controllers;
 
 [ApiController]
 [Route("api/[controller]")]
